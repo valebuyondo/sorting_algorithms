@@ -1,6 +1,6 @@
 /*
  * File: 2-selection_sort.c
- * Auth: Brennan D Baraban
+ * 
  */
 
 #include "sort.h"
